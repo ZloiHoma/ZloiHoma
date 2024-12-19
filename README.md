@@ -3,7 +3,7 @@
 ## С
 | Название | Описание |
 | ----------- | ----------- |
-| [SimpleBashUtils](https://github.com/mon52k/C3_SimpleBashUtils) |  Работа с базовыми утилитами Bash по работе с текстами. Реализация утилит `cat` и `grep`. |
+| [SimpleBashUtils](https://github.com/ZloiHoma/Simple_Bashe_Utils.git) |  Работа с базовыми утилитами Bash по работе с текстами. Реализация утилит `cat` и `grep`. |
 | [String+](https://github.com/mon52k/s21_string_plus) | Реализация библиотеки `string.h` с некоторыми дополнениями(sprintf). |
 | [Decimal](https://github.com/mon52k/s21_decimal) | Реализация библиотеки `decimal.h`. Эта библиотека добавляет возможность работы с типом «decimal», который отсутствует в стандарте языка. |
 | [Matrix](https://github.com/mon52k/s21_matrix) | Реализация библиотеки `matrix.h`. для бработки числовых матриц. |
